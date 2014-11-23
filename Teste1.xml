@@ -8,5 +8,6 @@
 
    <string name="Versao">2.0</string>
    
-   <string name="Item">Babalu</string>
+   <string name="Item1">Babalu</string>
+   <string name="Item2">Xuxu</string>
 </resources>
