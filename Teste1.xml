@@ -6,5 +6,7 @@
    <string name="app_id">832341987381</string>
    <string name="achievement_ganheiii">CgkItaDL25wYEAIQAQ</string>
 
-   <string name="Versao">1</string>
+   <string name="Versao">2.0</string>
+   
+   <string name="Item">Babalu</string>
 </resources>
