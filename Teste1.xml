@@ -5,5 +5,8 @@
    <string name="app_id">1</string>
    <string name="achievement_ganheiii">Ajustado</string>
 
-   <string name="Versao">1</string>
+   <string name="Versao">2.0</string>
+   
+   <string name="Item1">Babalu</string>
+   <string name="Item2">Xuxu</string>
 </resources>
